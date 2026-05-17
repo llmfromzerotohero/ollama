@@ -30,8 +30,6 @@ A apresentação mantém a sequência de tópicos da versão original e amplia c
 | Unidade 4 | Ollama como serviço | Uso da API nativa, API compatível com OpenAI, chamadas HTTP, integração com Python, streaming, vision e embeddings. |
 | Unidade 5 | Limitações de hardware e boas práticas | CPU, RAM, VRAM, disco, quantização, sintomas de saturação, monitoramento e critérios para decidir quando não usar inferência local. |
 
----
-
 ## Unidade 1 — Instalação e Configuração
 
 A primeira parte da apresentação explica como preparar o ambiente local para executar modelos LLM com Ollama. O ponto de partida é entender que o Ollama simplifica a execução local de modelos abertos, oferecendo uma CLI simples, um serviço HTTP local e suporte a modelos pré-empacotados.
