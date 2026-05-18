@@ -4,6 +4,8 @@ Este README resume a apresentação **Hospedagem Local de Modelos LLM via Ollama
 
 A ideia central da apresentação é que a inferência local com LLMs oferece privacidade, controle técnico e baixo custo de experimentação, mas exige disciplina operacional, documentação dos testes, conhecimento das limitações de hardware e atenção à reprodutibilidade.
 
+A apresentação (pdf) está disponível neste [link](https://github.com/llmfromzerotohero/ollama/blob/main/Apresentacao_Ollama_LLM_Local.pdf)
+
 ## Objetivos de aprendizagem
 
 Ao final da unidade, o estudante deve ser capaz de:
@@ -265,8 +267,6 @@ A apresentação organiza três funcionalidades práticas importantes:
 | Streaming | Receber tokens gradualmente durante a geração. | Chat em tempo real e interfaces interativas. |
 | Vision | Enviar imagens para modelos multimodais. | Análise de figuras, prints, diagramas e documentos visuais. |
 | Embedding | Gerar vetores de texto. | Busca semântica, RAG, recomendação e similaridade textual. |
-
----
 
 ## Protótipos relacionados
 
